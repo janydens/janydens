@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align="left">More to come here soon! </div>
+<img ALIGN="right" width=20% SRC="https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg">
+
 <!--
 **janydens/janydens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
